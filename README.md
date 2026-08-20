@@ -5,3 +5,4 @@
 * [Lab-03 Activity](Lab-03-Activity.html)
 * [Lab-04 Activity](Lab-04-Activity.html)
 * [Lab-05 Activity](Lab-05-Activity.html)
+* [Lab-06 Activity](Lab-06-Activity.html)
